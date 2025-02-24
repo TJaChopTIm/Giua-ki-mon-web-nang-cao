@@ -36,8 +36,11 @@ php artisan migrate
 php artisan db:seed
 ```
 
-## Step 5: tạo domain ảo
-- Tạo domain ảo với <ecomerce.local>
+## Step 5: chạy máy ảo trên local
+- Thực thi câu lệnh
+```
+php artisan serve
+```
 
 ## Step 6: thông tin tài khoản truy cập hệ thống
 Tài khoản Admin:
