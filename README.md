@@ -1,14 +1,12 @@
 # Thông tin về Tác giả
-Mã sinh viên: 009808
-Họ tên: Biện Công Nhựt Trường
-Mã sinh viên: 010005
-Họ tên: Nguyễn Mạnh Tường
+Mã sinh viên: 22010327
+Họ tên: Vũ Đức Nguyên
 
 # Hướng dẫn cách sử dụng dự án
 ## Step 1: Clone source dự án
 Thực thi câu lệnh sau:
 ```
-git clone https://github.com/heathzero/EcomerceProject
+git clone https://github.com/TJaChopTIm/Giua-ki-mon-web-nang-cao.git
 ```
 
 ## Step 2: Khởi tạo, kết nối database
