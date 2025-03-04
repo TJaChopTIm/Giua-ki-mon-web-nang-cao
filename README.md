@@ -8,27 +8,26 @@ Họ tên: Vũ Đức Nguyên
 
 Trang web bán hàng được phát triển sử dụng Laravel và PHP nhằm cung cấp một nền tảng mua sắm trực tuyến hiệu quả. Hệ thống bao gồm hai vai trò truy cập chính: Khách hàng và Quản trị viên (Admin).
 
-Chức Năng
+# Chức Năng
 
 1. Khách Hàng
 
-Duyệt danh mục sản phẩm theo loại.
+-Duyệt danh mục sản phẩm theo loại.
 
-Lọc sản phẩm theo danh mục, giá cả, tên sản phẩm.
+-Lọc sản phẩm theo danh mục.
 
-Thêm sản phẩm vào giỏ hàng.
+-Thêm sản phẩm vào giỏ hàng.
 
-Tiến hành thanh toán.
+-Tiến hành thanh toán.
 
 2. Quản Trị Viên (Admin)
 
-Quản lý danh mục sản phẩm.
+-Quản lý danh mục sản phẩm.
 
-Thêm, xóa, chỉnh sửa thông tin sản phẩm.
+-Thêm, xóa, chỉnh sửa thông tin sản phẩm.
 
-Quản lý tài khoản người dùng và nhân viên.
+-Quản lý tài khoản người dùng và nhân viên.
 
-Theo dõi và xử lý giao dịch.
 
 # Công Nghệ Sử Dụng
 
